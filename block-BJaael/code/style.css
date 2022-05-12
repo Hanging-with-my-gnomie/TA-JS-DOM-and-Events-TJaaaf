@@ -39,10 +39,25 @@ img {
   margin-top: 3rem;
 }
 
+
+.boxes{
+  padding-top: 45px;
+ display: flex;
+ flex-wrap: wrap;
+ max-width: 1200px;
+ max-height: 1200px;
+ margin: 0 auto;
+ padding-left: 48px;
+ 
+  
+  
+}
 .box{
   width: 4rem;
   height: 4rem;
-  border: 2px solid green;
-  display: flex;
-  flex-direction: column;
+  padding: 20px;
+  text-align: center;
+
+  
+  
 }
